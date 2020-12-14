@@ -16,9 +16,9 @@ url_root="https://raw.githubusercontent.com/itachi1621/Wallpapers/master"
 
 echo "### Wallpapers" >README.md
 echo "## My collection" >>README.md
-echo "## Wallpaers taken from " >>README.md
-echo "https://wallpaperaccess.com " >>README.md
-echo "https://www.hdwallpapers.in" >>README.md
+echo "## Wallpapers taken from  " >>README.md
+echo "(https://wallpaperaccess.com  " >>README.md
+echo "https://www.hdwallpapers.in  " >>README.md
 echo "" >>README.md
 
 total=$(ls wallpaper/ | wc -l)
