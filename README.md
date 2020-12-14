@@ -1,12 +1,23 @@
 ### Wallpapers
 My collection
 
+[![205696.jpg](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/thumbnails/205696.jpg)](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/wallpaper/205696.jpg)
 [![217944.jpg](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/thumbnails/217944.jpg)](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/wallpaper/217944.jpg)
 [![2743.jpg](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/thumbnails/2743.jpg)](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/wallpaper/2743.jpg)
 [![2746.jpg](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/thumbnails/2746.jpg)](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/wallpaper/2746.jpg)
 [![2772.jpg](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/thumbnails/2772.jpg)](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/wallpaper/2772.jpg)
+[![31197.jpg](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/thumbnails/31197.jpg)](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/wallpaper/31197.jpg)
+[![42042 (1).jpg](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/thumbnails/42042%20(1).jpg)](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/wallpaper/42042%20(1).jpg)
 [![4K-Bridge-Night-City-Lights-Wallpaper-3840x2160.jpg](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/thumbnails/4K-Bridge-Night-City-Lights-Wallpaper-3840x2160.jpg)](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/wallpaper/4K-Bridge-Night-City-Lights-Wallpaper-3840x2160.jpg)
 [![4K-Mountains-Rocks-Landscape-Wallpaper-3840x2160.jpg](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/thumbnails/4K-Mountains-Rocks-Landscape-Wallpaper-3840x2160.jpg)](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/wallpaper/4K-Mountains-Rocks-Landscape-Wallpaper-3840x2160.jpg)
+[![677363.jpg](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/thumbnails/677363.jpg)](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/wallpaper/677363.jpg)
+[![713277.jpg](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/thumbnails/713277.jpg)](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/wallpaper/713277.jpg)
+[![713287.jpg](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/thumbnails/713287.jpg)](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/wallpaper/713287.jpg)
+[![713311.jpg](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/thumbnails/713311.jpg)](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/wallpaper/713311.jpg)
+[![713336.jpg](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/thumbnails/713336.jpg)](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/wallpaper/713336.jpg)
+[![713409.jpg](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/thumbnails/713409.jpg)](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/wallpaper/713409.jpg)
+[![713418.jpg](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/thumbnails/713418.jpg)](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/wallpaper/713418.jpg)
+[![82317.jpg](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/thumbnails/82317.jpg)](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/wallpaper/82317.jpg)
 [![82324.jpg](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/thumbnails/82324.jpg)](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/wallpaper/82324.jpg)
 [![82330.jpg](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/thumbnails/82330.jpg)](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/wallpaper/82330.jpg)
 [![82350.jpg](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/thumbnails/82350.jpg)](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/wallpaper/82350.jpg)
