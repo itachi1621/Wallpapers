@@ -18,10 +18,10 @@ echo "### Wallpapers" >README.md
 echo "My collection" >>README.md
 echo "" >>README.md
 
-total=$(ls papes/ | wc -l)
+total=$(ls wallpaper/ | wc -l)
 i=0
 
-for src in papes/*; do
+for src in wallpaper/*; do
   ((i++))
   filename="$(basename "$src")"
   printf '%4d/%d: %s\n' "$i" "$total" "$filename"
