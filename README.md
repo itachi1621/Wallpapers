@@ -1,7 +1,7 @@
 ### Wallpapers
-##My collection
-##Wallpaers taken from
-###https://wallpaperaccess.com
+## My collection
+## Wallpaers taken from 
+https://wallpaperaccess.com 
 https://www.hdwallpapers.in
 
 [![1320272 (1).jpg](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/thumbnails/1320272%20(1).jpg)](https://raw.githubusercontent.com/itachi1621/Wallpapers/master/wallpaper/1320272%20(1).jpg)
